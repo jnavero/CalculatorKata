@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorTest/SubtratTest.cs">
+    <Files>
+      <File FileName="CalculatorKata/Calculator.cs" Line="10" Column="3" />
+      <File FileName="CalculatorTest/SubtratTest.cs" Line="25" Column="37" />
+      <File FileName="CalculatorTest/SumTest.cs" Line="36" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="CalculatorKata" expanded="True" />
+          <Node name="CalculatorTest" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
